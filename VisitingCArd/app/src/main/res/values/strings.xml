@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Visiting CArd</string>
+    <string name="logo">logo</string>
+    <string name="cmrit">CMRIT</string>
+    <string name="k_subbi_reddy">K.Subbi Reddy</string>
+    <string name="student">Student</string>
+    <string name="ph_6302254714">PH : 6302254714</string>
+    <string name="kundanahalli_banglore_karnataka">kundanahalli,banglore,Karnataka</string>
+    <string name="ph_91_6302254714_fax_1_323_555_1234_example_gmail_com">Ph : +91-6302254714,FAX : +1 323 555 1234,example@gmail.com</string>
+    <string name="www_cmr_com">www.cmr.com</string>
+</resources>
